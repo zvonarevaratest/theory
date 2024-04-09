@@ -20,3 +20,8 @@ Insert gif or link to demo
 - Fullscreen mode
 - Cross platform
 
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
